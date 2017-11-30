@@ -1,0 +1,25 @@
+.top-box {
+    height: 100px;
+    width: 100%;
+    background-color: #424242
+}
+
+
+.bottom-box {
+    height: 50px;
+    width: 75%;
+    background-color: black;
+    margin: 0 auto;
+}
+
+.main-content {
+    height: 75vh;
+    width: 75%;
+    margin: 0 auto;
+    background-color: white;
+}
+
+body {
+    background-color: #d6d6d6;
+    margin: 0;
+}

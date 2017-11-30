@@ -1,0 +1,45 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+.smaller-box {
+    box-sizing: border-box;
+    height: 85px;
+    width: 100%;
+}
+
+.small-blue-box {
+    height: 95%;
+    width: 8%;
+    background-color: blue;
+    
+    
+}
+
+#grey {
+    background-color: #c9c9c9;
+    padding: 10px;
+}
+
+.bigger-box {
+    padding: 57px;
+    background-color: white;
+    font-family: sans-serif;
+    font-weight: 80;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#seafoam {
+    background-color: #60ffb2;
+}
+
+#green {
+    background-color: #adf725;
+}
+
+#yellow {
+    background-color: #e9ff00;
+}
